@@ -1,7 +1,0 @@
-~$*.xlsx
-.vscode/
-__pycache__/
-*.pyc
-hit140env/
-venv/
-env/
