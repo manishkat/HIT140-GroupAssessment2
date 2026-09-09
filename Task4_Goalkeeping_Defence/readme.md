@@ -159,5 +159,5 @@ Advanced-stage teams recorded a higher sample mean (**71.19%**) than eliminated 
 | `screenshots/` | Terminal output and plots from running each script |
 
 
-**Student:** Shishir Rai (Zero) · Student ID S397831 · Charles Darwin University
+**Student:** Shishir Rai  · Student ID S397831 · Charles Darwin University
 **Unit:** HIT140 – Foundations of Data Science, S2 2026 · Group Assessment 2, Objective 1
