@@ -2,19 +2,12 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-# read csv into a DataFrame
-data = pd.read_csv("Players Stats.csv")
+# read saved random sample
+data = pd.read_csv("T1_sample.csv")
 
-# keep players who played at least 90 minutes
-data = data[data["Minutes Played"] >= 90]
-
-# separate MF and DF populations
-mf_population = data[data["Position"] == "MF"]
-df_population = data[data["Position"] == "DF"]
-
-# take the same random sample of 115 from each group
-mf_sample = mf_population.sample(n=115, random_state=42)
-df_sample = df_population.sample(n=115, random_state=42)
+# separate MF and DF samples
+mf_sample = data[data["Position"] == "MF"]
+df_sample = data[data["Position"] == "DF"]
 
 # extract Completed Passes per 90 values
 mf = mf_sample["Completed passes / 90"]

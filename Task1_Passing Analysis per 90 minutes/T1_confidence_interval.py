@@ -3,19 +3,12 @@ import statsmodels.stats.weightstats as stm
 import pandas as pd
 import math
 
-# read csv
-data = pd.read_csv("Players Stats.csv")
+# read saved random sample
+data = pd.read_csv("T1_sample.csv")
 
-# keep players who played at least 90 minutes
-data = data[data["Minutes Played"] >= 90]
-
-# separate MF and DF populations
-mf_population = data[data["Position"] == "MF"]
-df_population = data[data["Position"] == "DF"]
-
-# same random samples used in descriptive statistics
-mf_sample = mf_population.sample(n=115, random_state=42)
-df_sample = df_population.sample(n=115, random_state=42)
+# separate MF and DF samples
+mf_sample = data[data["Position"] == "MF"]
+df_sample = data[data["Position"] == "DF"]
 
 
 #MIDFIELDERS
