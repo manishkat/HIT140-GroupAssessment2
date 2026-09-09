@@ -1,4 +1,7 @@
 # FIFA World Cup 2026: Ball Possession and Match Outcome
+HIT140 / HIT37 — Foundations of Data Science
+Assessment 2
+Prepared by: Manish (Student ID: S401396)
 
 **An Analysis of the Difference in Average Possession Percentage Between Winning and Losing Teams**
 
