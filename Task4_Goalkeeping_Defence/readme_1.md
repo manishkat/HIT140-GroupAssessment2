@@ -157,7 +157,7 @@ Advanced-stage teams recorded a higher sample mean (**71.19%**) than eliminated 
 | `fifa_SAMPLE_savepct_n33.csv` | Stratified random sample (n=33) used for all descriptive/inferential analysis (output of Step 2) |
 | `01_data_wrangling.py` – `06_two_sample_t_test.py` | Analysis scripts, run in order |
 | `screenshots/` | Terminal output and plots from running each script |
-| `sources.md` | Full list of data sources and notes on data quality |
+
 
 **Student:** Shishir Rai (Zero) · Student ID S397831 · Charles Darwin University
 **Unit:** HIT140 – Foundations of Data Science, S2 2026 · Group Assessment 2, Objective 1
