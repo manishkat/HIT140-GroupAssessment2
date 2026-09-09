@@ -13,6 +13,10 @@ df_population = data[data["Position"] == "DF"]
 mf_sample = mf_population.sample(n=115, random_state=42)
 df_sample = df_population.sample(n=115, random_state=42)
 
+sample = pd.concat([mf_sample, df_sample])
+
+sample.to_csv("T1_sample.csv", index=False)
+
 # Select Completed Passes per 90
 mf = mf_sample["Completed passes / 90"]
 df = df_sample["Completed passes / 90"]
