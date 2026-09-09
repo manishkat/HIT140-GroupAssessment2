@@ -14,11 +14,7 @@ Completed passes per 90 minutes was used to make the comparison fair because pla
 
 ## 2. Data Wrangling
 
-Player statistics were collected for midfielders and defenders who participated in the FIFA World Cup 2026. Relevant variables such as position, minutes played and completed passes were retained.
-
-Players who played less than 90 minutes were filtered out. Completed passes per 90 minutes was then calculated to standardise passing performance across different playing times.
-
----
+Here, the players statistics were collected for mid-fielders and defenders who participated in the FIFA world cup 2026. Feature selection was applied, for retaining the variables which were relevant for the analysis like position, minutes played and completed passes. Players who have the less 90 minutes were filtered out, players who played 90 or greater than 90 minutes were taken, as a part of feature engineering completed passes per 90 minutes was calculated for standardising the passing performance across different playing times.
 
 ## 3. Data Preparation and Sampling
 
