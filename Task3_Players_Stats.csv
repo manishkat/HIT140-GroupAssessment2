@@ -1,0 +1,233 @@
+rank,player,country,confederation,position,attempts_at_goal
+1,Kylian Mbappe,France,UEFA,Forward,41
+2,Lamine Yamal,Spain,UEFA,Forward,27
+3,Mikel Oyarzabal,Spain,UEFA,Forward,23
+4,Harry Kane,England,UEFA,Forward,23
+5,Ousmane Dembele,France,UEFA,Forward,20
+6,Michael Olise,France,UEFA,Forward,20
+7,Kevin De Bruyne,Belgium,UEFA,Midfielder,20
+8,Jude Bellingham,England,UEFA,Midfielder,19
+9,Erling Haaland,Norway,UEFA,Forward,19
+10,Cristiano Ronaldo,Portugal,UEFA,Forward,18
+11,Ismaila Sarr,Senegal,CAF,Forward,17
+12,Leandro Trossard,Belgium,UEFA,Forward,17
+13,Dan Ndoye,Switzerland,UEFA,Forward,16
+14,Ferran Torres,Spain,UEFA,Forward,14
+15,Achraf Hakimi,Morocco,CAF,Defender,14
+16,Kenan Yildiz,Türkiye,UEFA,Forward,14
+17,Desire Doue,France,UEFA,Forward,13
+18,Bukayo Saka,England,UEFA,Forward,13
+19,Dani Olmo,Spain,UEFA,Forward,13
+20,Kai Havertz,Germany,UEFA,Forward,12
+21,Viktor Gyokeres,Sweden,UEFA,Forward,12
+22,Marcus Rashford,England,UEFA,Forward,12
+23,Alex Baena,Spain,UEFA,Midfielder,12
+24,Arda Guler,Türkiye,UEFA,Forward,12
+25,Ibrahim Maza,Algeria,CAF,Midfielder,11
+26,Yoane Wissa,DR Congo,CAF,Forward,11
+27,Youri Tielemans,Belgium,UEFA,Midfielder,11
+28,Hakan Calhanoglu,Türkiye,UEFA,Midfielder,11
+29,Omar Marmoush,Egypt,CAF,Forward,11
+30,Maxim De Cuyper,Belgium,UEFA,Defender,10
+31,Cody Gakpo,Netherlands,UEFA,Forward,10
+32,Bradley Barcola,France,UEFA,Forward,10
+33,Breel Embolo,Switzerland,UEFA,Forward,10
+34,Ismael Saibari,Morocco,CAF,Midfielder,10
+35,Emam Ashour,Egypt,CAF,Midfielder,10
+36,Florian Wirtz,Germany,UEFA,Midfielder,10
+37,Mohamed Salah,Egypt,CAF,Forward,9
+38,Fares Chaibi,Algeria,CAF,Midfielder,9
+39,Bruno Fernandes,Portugal,UEFA,Midfielder,9
+40,Martin Odegaard,Norway,UEFA,Midfielder,9
+41,Granit Xhaka,Switzerland,UEFA,Midfielder,9
+42,Adrien Rabiot,France,UEFA,Midfielder,9
+43,Alexander Isak,Sweden,UEFA,Forward,8
+44,Amad Diallo,Ivory Coast,CAF,Forward,8
+45,Scott Mctominay,Scotland,UEFA,Midfielder,8
+46,Pape Gueye,Senegal,CAF,Midfielder,8
+47,Trezeguet,Egypt,CAF,Forward,8
+48,Mostafa Zico,Egypt,CAF,Midfielder,8
+49,Felix Nmecha,Germany,UEFA,Midfielder,8
+50,Fabian Ruiz,Spain,UEFA,Midfielder,8
+51,Thapelo Maseko,South Africa,CAF,Forward,8
+52,Michal Sadilek,Czechia,UEFA,Midfielder,7
+53,Yasin Ayari,Sweden,UEFA,Midfielder,7
+54,Pedro Porro,Spain,UEFA,Defender,7
+55,Nicolas Jackson,Senegal,CAF,Forward,7
+56,Fabian Rieder,Switzerland,UEFA,Midfielder,7
+57,Neil El Aynaoui,Morocco,CAF,Midfielder,7
+58,Nico Oreilly,England,UEFA,Defender,7
+59,Elliot Anderson,England,UEFA,Midfielder,7
+60,Dodi Lukebakio,Belgium,UEFA,Forward,7
+61,Charles De Ketelaere,Belgium,UEFA,Forward,6
+62,Ruben Vargas,Switzerland,UEFA,Forward,6
+63,Anthony Gordon,England,UEFA,Forward,6
+64,Deniz Undav,Germany,UEFA,Forward,6
+65,Bilal El Khannouss,Morocco,CAF,Midfielder,6
+66,Soufiane Rahimi,Morocco,CAF,Forward,6
+67,Riyad Mahrez,Algeria,CAF,Forward,6
+68,Johan Manzambi,Switzerland,UEFA,Midfielder,6
+69,Sadio Mane,Senegal,CAF,Forward,6
+70,Nicolas Pepe,Ivory Coast,CAF,Forward,6
+71,Declan Rice,England,UEFA,Midfielder,6
+72,Romelu Lukaku,Belgium,UEFA,Forward,6
+73,Manu Kone,France,UEFA,Midfielder,6
+74,Leroy Sane,Germany,UEFA,Midfielder,6
+75,Antonio Nusa,Norway,UEFA,Forward,6
+76,Merih Demiral,Türkiye,UEFA,Defender,6
+77,Noni Madueke,England,UEFA,Forward,6
+78,Jamal Musiala,Germany,UEFA,Midfielder,6
+79,Joao Felix,Portugal,UEFA,Forward,6
+80,Brahim Diaz,Morocco,CAF,Forward,6
+81,Brian Cipenga,DR Congo,CAF,Forward,6
+82,Mateo Kovacic,Croatia,UEFA,Midfielder,5
+83,Mikel Merino,Spain,UEFA,Midfielder,5
+84,Marc Cucurella,Spain,UEFA,Defender,5
+85,Azzedine Ounahi,Morocco,CAF,Midfielder,5
+86,Marcel Sabitzer,Austria,UEFA,Midfielder,5
+87,Denzel Dumfries,Netherlands,UEFA,Defender,5
+88,Pedri,Spain,UEFA,Midfielder,5
+89,Aymeric Laporte,Spain,UEFA,Defender,5
+90,Denis Zakaria,Switzerland,UEFA,Midfielder,5
+91,Hans Vanaken,Belgium,UEFA,Midfielder,5
+92,Arthur Theate,Belgium,UEFA,Defender,5
+93,Alexander Sorloth,Norway,UEFA,Forward,5
+94,Brandon Mechele,Belgium,UEFA,Defender,5
+95,Joshua Kimmich,Germany,UEFA,Defender,5
+96,Ladislav Krejci,Czechia,UEFA,Defender,5
+97,Aubrey Modiba,South Africa,CAF,Defender,5
+98,Seko Fofana,Ivory Coast,CAF,Midfielder,5
+99,Idrissa Gana Gueye,Senegal,CAF,Midfielder,5
+100,Kevin Pina,Cape Verde,CAF,Midfielder,5
+101,Fiston Mayele,DR Congo,CAF,Forward,5
+102,Jamiro Monteiro,Cape Verde,CAF,Midfielder,5
+103,Ermedin Demirovic,Bosnia and Herzegovina,UEFA,Forward,4
+104,Evidence Makgopa,South Africa,CAF,Forward,4
+105,Oscar Bobb,Norway,UEFA,Midfielder,4
+106,Brian Brobbey,Netherlands,UEFA,Forward,4
+107,Donyell Malen,Netherlands,UEFA,Forward,4
+108,Tijjani Reijnders,Netherlands,UEFA,Midfielder,4
+109,Dayot Upamecano,France,UEFA,Defender,4
+110,Igor Matanovic,Croatia,UEFA,Forward,4
+111,Nico Williams,Spain,UEFA,Forward,4
+112,Pau Cubarsi,Spain,UEFA,Defender,4
+113,Ermin Mahmic,Bosnia and Herzegovina,UEFA,Midfielder,4
+114,Diney Borges,Cape Verde,CAF,Defender,4
+115,Sidny Lopes Cabral,Cape Verde,CAF,Defender,4
+116,Teboho Mokoena,South Africa,CAF,Midfielder,4
+117,Franck Kessie,Ivory Coast,CAF,Midfielder,4
+118,Kerim Alajbegovic,Bosnia and Herzegovina,UEFA,Forward,4
+119,Alexis Saelemaekers,Belgium,UEFA,Midfielder,4
+120,Mario Pasalic,Croatia,UEFA,Midfielder,4
+121,Aleksandar Pavlovic,Germany,UEFA,Midfielder,4
+122,Rafael Leao,Portugal,UEFA,Forward,4
+123,Can Uzun,Türkiye,UEFA,Forward,4
+124,Marawan Attia,Egypt,CAF,Midfielder,4
+125,Mbekezeli Mbokazi,South Africa,CAF,Defender,4
+126,Thalente Mbatha,South Africa,CAF,Midfielder,4
+127,Oswin Appollis,South Africa,CAF,Forward,4
+128,Ibrahim Mbaye,Senegal,CAF,Forward,4
+129,Anthony Elanga,Sweden,UEFA,Forward,3
+130,Marko Arnautovic,Austria,UEFA,Forward,3
+131,Laros Duarte,Cape Verde,CAF,Midfielder,3
+132,Nathaniel Brown,Germany,UEFA,Defender,3
+133,Marco Pasalic,Croatia,UEFA,Forward,3
+134,Ezri Konsa,England,UEFA,Defender,3
+135,Petar Sucic,Croatia,UEFA,Midfielder,3
+136,Andreas Schjelderup,Norway,UEFA,Midfielder,3
+137,Jan Paul Van Hecke,Netherlands,UEFA,Defender,3
+138,Lukas Cerv,Czechia,UEFA,Midfielder,3
+139,Mattias Svanberg,Sweden,UEFA,Midfielder,3
+140,Esmir Bajraktarevic,Bosnia and Herzegovina,UEFA,Forward,3
+141,Jovo Lukic,Bosnia and Herzegovina,UEFA,Forward,3
+142,Deroy Duarte,Cape Verde,CAF,Midfielder,3
+143,Nathanael Mbuku,DR Congo,CAF,Midfielder,3
+144,Amine Gouiri,Algeria,CAF,Forward,3
+145,Elye Wahi,Ivory Coast,CAF,Forward,3
+146,Ayoub El Kaabi,Morocco,CAF,Forward,3
+147,Iliman Ndiaye,Senegal,CAF,Forward,3
+148,Hazem Mastouri,Tunisia,CAF,Forward,3
+149,Amar Memic,Bosnia and Herzegovina,UEFA,Midfielder,3
+150,Sasa Kalajdzic,Austria,UEFA,Forward,3
+151,Timothy Castagne,Belgium,UEFA,Defender,3
+152,Micky Van De Ven,Netherlands,UEFA,Defender,3
+153,John Mcginn,Scotland,UEFA,Midfielder,3
+154,Jeremy Doku,Belgium,UEFA,Forward,3
+155,Kristian Thorstvedt,Norway,UEFA,Midfielder,3
+156,Ante Budimir,Croatia,UEFA,Forward,3
+157,Nikola Vlasic,Croatia,UEFA,Midfielder,3
+158,Leo Ostigard,Norway,UEFA,Defender,3
+159,Morgan Rogers,England,UEFA,Midfielder,3
+160,Joao Neves,Portugal,UEFA,Midfielder,3
+161,Martin Baturina,Croatia,UEFA,Midfielder,3
+162,Jean Philippe Mateta,France,UEFA,Forward,3
+163,Nuno Mendes,Portugal,UEFA,Defender,3
+164,Gustaf Lagerbielke,Sweden,UEFA,Defender,3
+165,Adam Hlozek,Czechia,UEFA,Forward,3
+166,Kerem Akturkoglu,Türkiye,UEFA,Forward,3
+167,Emmanuel Agbadou,Ivory Coast,CAF,Defender,3
+168,Mahmoud Saber,Egypt,CAF,Midfielder,3
+169,Hannibal Mejbri,Tunisia,CAF,Midfielder,3
+170,Relebohile Mofokeng,South Africa,CAF,Forward,3
+171,Elias Achouri,Tunisia,CAF,Forward,3
+172,Zizo,Egypt,CAF,Forward,3
+173,Habib Diarra,Senegal,CAF,Midfielder,3
+174,Helio Varela,Cape Verde,CAF,Midfielder,3
+175,Houssem Aouar,Algeria,CAF,Midfielder,3
+176,Rafik Belghali,Algeria,CAF,Defender,3
+177,Ivan Perisic,Croatia,UEFA,Forward,2
+178,Virgil Van Dijk,Netherlands,UEFA,Defender,2
+179,Crysencio Summerville,Netherlands,UEFA,Forward,2
+180,Djed Spence,England,UEFA,Defender,2
+181,Nico Schlotterbeck,Germany,UEFA,Defender,2
+182,Nadhir Benbouali,Algeria,CAF,Forward,2
+183,Meschack Elia,DR Congo,CAF,Forward,2
+184,Kristoffer Ajer,Norway,UEFA,Defender,2
+185,Carney Chukwuemeka,Austria,UEFA,Midfielder,2
+186,Thomas Meunier,Belgium,UEFA,Defender,2
+187,Ivan Toney,England,UEFA,Forward,2
+188,Romano Schmid,Austria,UEFA,Midfielder,2
+189,Jorgen Strand Larsen,Norway,UEFA,Forward,2
+190,Lucas Digne,France,UEFA,Defender,2
+191,Goncalo Ramos,Portugal,UEFA,Forward,2
+192,Thelo Aasgaard,Norway,UEFA,Midfielder,2
+193,Nicolas Raskin,Belgium,UEFA,Midfielder,2
+194,Nadiem Amiri,Germany,UEFA,Midfielder,2
+195,Deniz Gul,Türkiye,UEFA,Forward,2
+196,Michel Aebischer,Switzerland,UEFA,Midfielder,2
+197,Djibril Sow,Switzerland,UEFA,Midfielder,2
+198,Amar Dedic,Bosnia and Herzegovina,UEFA,Defender,2
+199,Lewis Ferguson,Scotland,UEFA,Midfielder,2
+200,Remo Freuler,Switzerland,UEFA,Midfielder,2
+201,Patrik Schick,Czechia,UEFA,Forward,2
+202,Gessime Yassine,Morocco,CAF,Midfielder,2
+203,Ayoube Amaimouni,Morocco,CAF,Forward,2
+204,Pathe Ciss,Senegal,CAF,Midfielder,2
+205,Jonas Adjetey,Ghana,CAF,Defender,2
+206,Caleb Yirenkyi,Ghana,CAF,Midfielder,2
+207,Edo Kayembe,DR Congo,CAF,Midfielder,2
+208,Anis Hadj Moussa,Algeria,CAF,Forward,2
+209,Anthony Ralston,Scotland,UEFA,Defender,1
+210,Torbjorn Heggem,Norway,UEFA,Defender,1
+211,Petar Musa,Croatia,UEFA,Forward,1
+212,Marcus Holmgren Pedersen,Norway,UEFA,Defender,1
+213,Rayan Cherki,France,UEFA,Midfielder,1
+214,Waldemar Anton,Germany,UEFA,Defender,1
+215,David Raum,Germany,UEFA,Defender,1
+216,Jonathan Tah,Germany,UEFA,Defender,1
+217,Besfort Zeneli,Sweden,UEFA,Midfielder,1
+218,Ivan Sunjic,Bosnia and Herzegovina,UEFA,Midfielder,1
+219,Manuel Akanji,Switzerland,UEFA,Defender,1
+220,Che Adams,Scotland,UEFA,Forward,1
+221,Alexander Bernhardsson,Sweden,UEFA,Defender,1
+222,Kaan Ayhan,Türkiye,UEFA,Midfielder,1
+223,Zeki Celik,Türkiye,UEFA,Defender,1
+224,Anis Slimane,Tunisia,CAF,Midfielder,1
+225,Omar Rekik,Tunisia,CAF,Defender,1
+226,Issa Diop,Morocco,CAF,Defender,1
+227,Ahmed Fatouh,Egypt,CAF,Defender,1
+228,Bara Sapoko Ndiaye,Senegal,CAF,Midfielder,1
+229,Yasser Ibrahim,Egypt,CAF,Defender,1
+230,Ramy Rabia,Egypt,CAF,Defender,1
+231,Derrick Luckassen,Ghana,CAF,Defender,1
+232,Ange Yoan Bonny,Ivory Coast,CAF,Forward,1
