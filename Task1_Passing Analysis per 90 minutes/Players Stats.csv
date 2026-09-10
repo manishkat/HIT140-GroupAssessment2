@@ -1,0 +1,524 @@
+﻿Player-ID,Player,Team,Position,Minutes Played,Passes,Completed passes,Accuracy,Completed passes / 90
+1,Rodri,Spain,MF,819,799,747,93%,82.09
+2,Pau Cubarsi,Spain,DF,857,690,668,97%,70.15
+3,Aymeric Laporte,Spain,DF,824,660,618,94%,67.5
+4,Ezric Konsa,England,DF,739,488,469,96%,57.12
+5,Enzo Fernandez,Argentine,MF,755,519,480,92%,57.22
+6,Rafik Belghali,Algeria ,DF,362,183,168,92%,41.77
+7,Houssem Aouar ,Algeria ,MF,191,84,79,94%,37.23
+8,Jaouen Hadjam ,Algeria ,DF,125,67,56,84%,40.32
+9,Ramiz Zerrouki ,Algeria ,MF,126,105,97,92%,69.29
+10,Hicham Boudaoui,Algeria ,MF,143,86,83,97%,52.24
+11,Nabil Bentaleb,Algeria ,MF,313,280,255,91%,73.32
+12,Rayan Ait Nouri,Algeria ,DF,315,211,190,90%,54.29
+13,Ibrahim Maza,Algeria ,MF,389,141,111,79%,25.68
+14,Ramy Bensebaini,Algeria ,DF,403,385,359,93%,80.17
+15,Fares Chaibi,Algeria ,MF,403,244,220,90%,49.13
+16,Aissa Mandi,Algeria ,DF,403,382,357,93%,79.73
+17,Lisandro Martinez,Argentine ,DF,708,450,422,94%,53.64
+18,Alexis Mac Allister,Argentine,MF,869,430,393,91%,40.7
+19,Cristian Romero ,Argentine ,DF,685,430,415,97%,54.53
+20,Gonzalo Montiel,Argentine ,DF,241,100,81,81%,30.25
+21,Nico Gonzalez,Argentine ,MF,324,109,90,83%,25
+22,Facundo Medina,Argentine ,DF,350,163,150,92%,38.57
+23,Rodrigo De Paul ,Argentine ,MF,539,327,300,92%,50.09
+24,Exequiel Palacios,Argentine ,MF,100,94,89,95%,80.1
+25,Marcos Senesi,Argentine,DF,126,79,75,95%,53.57
+26,Nicolas Otamendi,Argentine ,DF,267,187,178,95%,60
+27,Nicolas Tagliafico ,Argentine ,DF,543,217,190,88%,31.49
+28,Leandro Paredes,Argentine,MF,557,565,532,94%,85.96
+29,Nahuel Molina ,Argentine ,DF,592,276,234,85%,35.57
+30,Connor Metcalfe ,Australia ,MF,354,80,65,81%,16.53
+31,Paul Okon Engstler,Australia ,MF,214,89,77,87%,32.38
+32,Cameron Burgess,Australia ,DF,152,56,45,80%,26.64
+33,Jacob Italiano,Australia ,DF,183,43,33,77%,16.23
+34,Lucas Herrington,Australia ,DF,232,106,101,95%,39.18
+35,Aziz Behich ,Australia ,DF,245,82,60,73%,22.04
+36,Jackson Irvine,Australia ,DF,255,124,103,83%,36.35
+37,Jordan Bos,Australia ,DF,343,107,94,88%,24.66
+38,Aiden Oneill ,Australia ,MF,406,172,142,83%,31.48
+39,Alessandro Circati,Australia ,DF,483,221,177,80%,32.98
+40,Harry Souttar,Australia ,DF,438,199,171,86%,35.14
+41,David Alaba,Austria ,DF,302,222,198,89%,59.01
+42,Romano Schmid,Austria ,MF,283,91,65,71%,20.67
+43,Marcel Sabitzer,Austria ,MF,412,126,94,75%,20.53
+44,Xaver Schlager,Austria ,MF,265,138,130,94%,44.15
+45,Konard Laimer,Austria ,MF,412,150,130,87%,28.4
+46,Florian Grillitsch,Austria ,MF,102,60,55,92%,48.53
+47,Carney Chukwuemeka,Austria ,MF,108,30,25,83%,20.83
+48,Philip Mwene ,Austria ,DF,160,64,56,88%,31.5
+49,Philip Lienhart ,Austria ,DF,207,140,128,91%,55.65
+50,Paul Wanner,Austria ,MF,270,80,68,85%,22.67
+51,Kevin Danso,Austria ,DF,284,164,147,90%,46.58
+52,Nicolas Seiwald,Austria ,MF,361,153,141,92%,35.15
+53,Stefan Posch ,Austria ,DF,370,132,98,74%,23.84
+54,Youri Tielemans,Belgium,MF,538,255,221,87%,36.97
+55,Hans Vanaken,Belgium,MF,362,164,153,93%,38.04
+56,Alexis Saelemaekers,Belgium,MF,107,42,33,79%,27.76
+57,Kevin De Bruyne,Belgium,MF,412,185,153,83%,33.42
+58,Nicolas Raskin,Belgium,MF,396,230,197,86%,44.77
+59,Thomas Meunier,Belgium,DF,226,116,98,84%,39.03
+60,Timothy Castagne,Belgium,DF,546,263,230,87%,37.91
+61,Amadou Onana,Belgium,MF,127,64,57,89%,40.39
+62,Arthur Theate,Belgium,DF,268,164,153,93%,51.38
+63,Nathan Ngoy,Belgium,DF,376,219,205,94%,49.07
+64,Maxim De Cuyper,Belgium,DF,492,246,203,83%,37.13
+65,Brandon Mechele,Belgium,DF,651,399,369,92%,51.01
+66,Casemiro ,Brazil,MF,425,224,200,89%,42.35
+67,Lucas Paqueta,Brazil,MF,255,190,162,85%,57.18
+68,Gabriel Magalhaes,Brazil,DF,520,431,413,96%,71.48
+69,Fabinho,Brazil,MF,95,44,30,68%,28.42
+70,Danilo ,Brazil,DF,471,294,262,89%,50.06
+71,Douglas Santos,Brazil,DF,505,275,256,93%,45.62
+72,Marquinhos,Brazil,DF,520,380,367,97%,63.52
+73,Ivan Basic,BIH,MF,200,104,96,92%,43.2
+74,Sead Kolasinac,BIH,DF,373,173,141,82%,34.02
+75,Armin Gigovic,BIH,MF,95,24,17,71%,16.11
+76,Stjepan Radeljic,BIH,DF,211,153,137,90%,58.44
+77,Ivan Sunjic,BIH,MF,221,102,88,86%,35.84
+78,Amar Memic,BIH,MF,254,52,39,75%,13.82
+79,Benjamin Tahirovic,BIH,MF,266,107,91,85%,30.79
+80,Tarik Muharemovic,BIH,MF,292,153,132,86%,40.68
+81,Amar Dedic,BIH,DF,310,99,80,81%,23.23
+82,Nikola Katic,BIH,DF,353,165,148,90,37.73
+83,Helio Varela ,Cabo Verde,MF,130,38,30,79%,20.77
+84,Deroy Duarte ,Cabo Verde,MF,300,101,87,86%,26.1
+85,Sidny Lopes Cabral,Cabo Verde,DF,324,105,87,83%,24.17
+86,Kevin Pina,Cabo Verde,MF,389,156,134,86%,31
+87,Garry Rodrigues,Cabo Verde,MF,90,14,11,79%,11
+88,Wanger Pina,Cabo Verde,DF,99,38,30,79%,27.27
+89,Joao Paulo,Cabo Verde,MF,121,62,52,84%,38.68
+90,Jovane Cabral,Cabo Verde,MF,148,34,27,79%,16.42
+91,Willy Semedo,Cabo Verde,MF,156,33,30,91%,17.31
+92,Nuno Da Costa,Cabo Verde,MF,180,23,18,78%,9
+93,Laros Duarte,Cabo Verde,MF,187,41,33,80%,15.88
+94,Jamiro Monteiro ,Cabo Verde,MF,314,106,87,82%,24.94
+95,Steven Moreira,Cabo Verde,DF,346,109,88,81%,22.89
+96,Pico Lopes,Cabo Verde,DF,445,182,153,84%,30.94
+97,Diney Borges,Cabo Verde,DF,445,195,158,81%,31.96
+98,Nathan Saliba,Canada,MF,206,93,79,85%,34.51
+99,Stephen Eustaquio ,Canada,MF,444,281,244,87%,49.46
+100,Jacob Shaffelburg,Canada,MF,126,41,37,90%,26.43
+101,Niko Sigur,Canada,DF,147,64,52,81%,31.84
+102,Ismael Kone,Canada,MF,160,108,93,86%,52.31
+103,Liam Millar,Canada,MF,176,67,50,75%,25.57
+104,Moise Bombito,Canada,DF,221,111,96,86%,39.1
+105,Derek Cornelius,Canada,DF,351,170,151,89%,38.72
+106,Luc De Fougerolles,Canada,DF,421,191,170,89%,36.34
+107, Richel Laryea,Canada,DF,475,202,167,83%,31.64
+108,Alistair Johnson,Canada,DF,511,240,184,77%,32.41
+109,Daniel Munoz,Colombia,DF,451,213,194,91%,38.71
+110,Jhon Arias,Colombia,MF,405,240,227,95%,50.44
+111,Juan Quintero,Colombia,MF,146,89,74,83%,45.62
+112,Gustavo Puerta,Colombia,DF,520,290,264,91%,45.69
+113,Deiver Machado ,Colombia,DF,99,23,22,96%,20
+114,Richard Rios ,Colombia,MF,175,56,47,84%,24.17
+115,James Rodriguez,Colombia,MF,338,237,199,84%,52.99
+116,Johan Mojica,Colombia,DF,442,202,161,80%,32.78
+117,Jefferson Lerma ,Colombia,MF,459,274,242,88%,47.45
+118,Jhon Lucumi,Colombia,DF,538,285,262,92%,43.83
+119,Davinson Sanchez,Colombia,DF,541,361,324,90%,53.9
+120,Arthur Masuaku ,Congo DR,DF,340,169,141,83%,37.32
+121,Chancel Mbemba,Congo DR,DF,409,162,130,80%,28.61
+122,Nathanael Mbuku,Congo DR,MF,163,45,35,78%,19.33
+123,Edo Kayembe,Congo DR,MF,177,41,35,85%,17.8
+124,Steve Kapuadi,Congo DR,DF,201,55,46,84%,20.6
+125,Ngalayel Mukau,Congo DR,MF,220,69,60,87%,24.55
+126,Noah Sadiki,Congo DR,MF,297,116,103,89%,31.21
+127,Sameul Moutoussamy,Congo DR,MF,360,147,122,83%,30.5
+128,Aaron Wan Bissaka ,Congo DR,DF,399,137,209,80%,47.14
+129,Axel Tuanzebe,Congo DR,DF,409,155,140,90%,30.81
+130,Franch Kessie,Cote d'Ivorie,MF,389,188,165,88%,38.17
+131,Wilfried Singo ,Cote d'Ivorie,DF,190,92,79,86%,37.42
+132,Ibrahim Sangare,Cote d'Ivorie,MF,305,190,172,91%,50.75
+133,Ousmane Diomande ,Cote d'Ivorie,DF,100,74,72,97%,64.8
+134,Christopher Operi,Cote d'Ivorie,DF,100,78,70,90%,63
+135,Seko Fofana ,Cote d'Ivorie,MF,103,45,38,84%,33.2
+136,Ghislain Konan,Cote d'Ivorie,DF,303,149,124,83%,36.83
+137,Emmanuel Agbadou,Cote d'Ivorie,DF,308,154,142,92%,41.49
+138,Guela Doue,Cote d'Ivorie,DF,311,163,143,88%,41.38
+139,Odilon Kossounou,Cote d'Ivorie,DF,316,149,141,95%,40.16
+140,Christ Inao Oulai,Cote d'Ivorie,MF,240,125,115,92%,43.13
+141,Peter Sucic,Croatia ,MF,338,127,110,87%,29.29
+142,Nikola Vlasic,Croatia ,MF,204,40,33,83%,14.56
+143,Martin Baturina,Croatia ,MF,344,93,80,86%,20.93
+144,Mateo Kovacic,Croatia ,MF,293,208,176,95%,54.06
+145,Luka Modric,Croatia ,MF,360,248,225,91%,56.25
+146,Josip Stanisic,Croatia ,DF,413,162,140,86%,30.51
+147,Mario Pasalic,Croatia ,MF,158,50,45,90%,25.63
+148,Josko Gvardiol ,Croatia ,DF,177,89,77,87%,39.15
+149,Marin Pongracic,Croatia ,DF,311,200,182,91%,52.67
+150,Josip Sutalo,Croatia ,DF,413,267,241,90%,52.52
+151,Livano Comenecia,Curacao,MF,253,62,50,81%,17.79
+152,Riechedly Bazoer,Curacao,DF,100,36,31,86%,27.9
+153,Jurien Garri,Curacao,DF,180,54,41,76%,20.5
+154,Joshua Brenet,Curacao,DF,193,63,49,78%,22.85
+155,Deveron Fonville,Curacao,DF,250,66,55,83%,19.8
+156,Tahith Chong,Curacao,MF,267,61,51,84%,17.19
+157,Juninho Bacuna,Curacao,MF,280,75,60,80%,19.29
+158,Leandro Bacuna,Curacao,MF,300,125,108,86%,32.4
+159,Sherel Floranus ,Curacao,MF,300,112,95,85%,28.5
+160,Armando Obispo,Curacao,DF,300,97,87,90%,26.1
+161,Michal Sadilek ,Czechia,MF,204,84,69,82%,30.44
+162,Ladislav Krejci,Czechia,DF,301,160,135,84%,40.37
+163,Alexandr Sojka ,Czechia,MF,155,65,52,80%,30.19
+164,Vladimir Coufal ,Czechia,DF,301,110,79,72%,23.62
+165,Stepan Chaloupek,Czechia,DF,99,22,15,68%,13.64
+166,David Doudera,Czechia,DF,100,47,34,72%,30.6
+167,Lukas Provod,Czechia,MF,137,48,37,77%,24.31
+168,Jaroslav Zeleny ,Czechia,DF,142,47,35,74%,22.18
+169,Tomas Soucek,Czechia,MF,152,44,35,80%,20.72
+170,Tomas Holes,Czechia,DF,169,66,55,83%,29.29
+171,Lukas Cerv,Czechia,MF,172,42,36,86%,18.84
+172,Robin Hranac,Czechia,DF,301,116,104,90%,31.1
+173,Pedro Vite,Ecuador,MF,407,297,269,91%,59.48
+174,Pervis Etsupinan,Ecuador,DF,100,61,55,90%,49.5
+175,Angelo Preciado ,Ecuador,DF,137,47,32,68%,21.02
+176,Joel Ordonez,Ecuador,DF,253,113,101,89%,35.93
+177,Alan Franco,Ecuador,MF,270,148,140,95%,46.67
+178,Piero Hincapie,Ecuador,DF,376,189,160,85%,38.3
+179,Moises Caicedo ,Ecuador,MF,407,295,264,89%,58.38
+180,Willian Pacho ,Ecuador,DF,407,238,217,91%,47.99
+181,Mostafa Zico,Egypt,MF,398,83,57,69%,12.89
+182,Emam Ashour,Egypt,MF,395,207,176,85%,40.1
+183,Yasser Ibrahim,Egypt,DF,533,260,239,92%,40.36
+184,Karim Hafez,Egypt,DF,198,113,99,88%,45
+185,Marawan Attia,Egypt,MF,495,357,313,88%,56.91
+186,Mohamed Hany ,Egypt,DF,546,282,245,87%,40.38
+187,Hamdy Fathy ,Egypt,MF,260,130,119,92%,41.19
+188,Ahmed Fatouh,Egypt,DF,301,182,163,90%,48.74
+189,Mohanad Lashin,Egypt,MF,409,191,169,88%,37.19
+190,Ramy Rabia,Egypt,DF,431,244,224,92%,46.77
+191,Jude Bellingham ,England ,MF,698,231,191,83%,24.63
+192,Declan Rice,England ,MF,622,340,312,92%,45.14
+193,Eberechi Eze,England ,MF,247,97,89,92%,32.43
+194,Morgan Rogers,England ,MF,411,121,102,84%,22.34
+195,Elliot Anderson,England ,MF,713,445,396,89%,49.99
+196,Jarell Quansah,England ,DF,208,106,101,87%,43.7
+197,Reece James,England ,DF,368,188,173,92%,42.31
+198,John Stones,England ,DF,380,184,178,97%,42.16
+199,Nico Oreilly ,England ,DF,523,216,200,93%,34.42
+200,Marc Guehi,England ,DF,761,532,514,97%,60.79
+201,Dayot Upamecano ,France ,DF,740,443,409,92%,49.74
+202,Warren Zaire Emery,France ,MF,128,70,66,94%,46.41
+203,Auren Tchouameni ,France ,MF,407,254,239,94%,52.85
+204,Adrien Rabiot,France ,MF,657,351,323,92%,44.25
+205,Malo Gusto ,France ,DF,143,76,69,91%,43.43
+206,Rayan Cherki ,France ,MF,169,104,89,86%,47.4
+207,Maxence Lacroix,France ,DF,276,130,125,96%,40.76
+208,Theo Hernandez,France ,DF,296,149,139,93%,42.26
+209,Manu Kone,France ,MF,426,263,242,92%,51.13
+210,Lucas Digne,France ,DF,513,283,252,89%,44.21
+211,William Salibha,France ,DF,533,315,307,97%,51.84
+212,Jules Kounde,France ,DF,666,353,314,89%,42.43
+213,Felix Nmecha,Germany,MF,299,131,120,92%,36.12
+214,Nathniel Brown,Germany,DF,319,131,115,88%,32.45
+215,Nico Schlotterbeck,Germany,DF,152,123,110,89%,65.13
+216,Jamal Musiala,Germany,MF,305,104,86,83%,25.38
+217,Leroy Sane,Germany,MF,360,189,161,85%,40.25
+218,Florian Wirtz,Germany,MF,405,271,223,82%,49.56
+219,Joshua Kimmich ,Germany,DF,392,368,336,91%,77.14
+220,Leon Goretzka ,Germany,MF,122,30,23,77%,16.97
+221,David Raum,Germany,DF,123,52,44,85%,32.2
+222,Aleksander Pavlovic,Germany,MF,300,260,240,92%,72
+223,Antonio Ruediger,Germany,DF,300,246,230,93%,69
+224,Jonathan Tah ,Germany,DF,419,375,364,97%,78.19
+225,Derrick Luckassen ,Ghana ,DF,205,125,109,87%,47.85
+226,Caleb Yirenkyi,Ghana ,MF,307,70,62,89%,18.18
+227,Alidu Seidu,Ghana ,DF,92,27,25,93%,24.46
+228,Elisha Owusu ,Ghana ,MF,166,58,50,86%,27.11
+229,Jonas Adjetey ,Ghana ,DF,257,120,105,88%,36.77
+230,Kwasi Sibo,Ghana ,MF,282,93,88,95%,28.09
+231,Thomas Partey,Ghana ,MF,307,152,134,88%,39.28
+232,Marvin Senaya,Ghana ,DF,312,91,75,82%,21.63
+233,Jerome Opoku,Ghana ,DF,313,115,95,83%,27.32
+234,Gideon Mensah ,Ghana ,DF,414,182,156,86%,33.91
+235,Antoine Semenyo,Ghana ,MF,414,68,52,76%,11.3
+236,Jean Kevin Duverne ,Haiti,DF,186,69,59,86%,28.55
+237,Carlen Arcus,Haiti,DF,171,61,54,89%,28.42
+238,Danley Jean Jacques,Haiti,MF,288,116,102,88%,31.88
+239,Ricardo Ade,Haiti,DF,306,136,121,89%,35.59
+240,Hannes Delcroix,Haiti,DF,306,151,146,97%,42.94
+241,Martin Experience,Haiti,DF,306,111,93,84%,27.35
+242,Jean Ricner Bellegarde,Haiti,MF,293,130,112,86%,34.4
+243,Ramin Rezaeian,IR Iran,DF,309,98,68,69%,19.81
+244,Mohammad Mohebbi,IR Iran,MF,271,69,49,71%,16.27
+245,Eshan Hajisafi,IR Iran,DF,104,20,11,55%,9.52
+246,Mohammad Ghorbani,IR Iran,MF,104,19,16,84%,13.85
+247,Saleh Hardani,IR Iran,DF,107,29,21,72%,17.66
+248,Hossein Kanani,IR Iran,DF,154,34,33,97%,19.29
+249,Saman Ghoddos,IR Iran,MF,228,64,45,70%,17.76
+250,Milad Mohammadi,IR Iran,DF,235,80,66,83%,25.28
+251,Saeid Ezatolahi,IR Iran,MF,298,99,78,79%,23.56
+252,Shoja Khalizadeh,IR Iran,DF,309,141,118,84%,34.37
+253,Ali Nemati,IR Iran,DF,309,129,114,88%,33.2
+254,Amir Alammari,Iraq,MF,128,125,99,79%,69.61
+255,Frans Putros,Iraq,DF,105,28,26,93%,22.29
+256,Zaid Ismael,Iraq,MF,126,71,63,89%,45
+257,Zahid Tahseen,Iraq,DF,165,64,53,83%,28.91
+258,Hussein Ali,Iraq,DF,174,40,32,80%,16.55
+259,Zidane Iqbal,Iraq,MF,210,128,118,92%,50.57
+260,Ibrahim Bayesh,Iraq,MF,259,48,40,83%,13.9
+261,Akam Hashim,Iraq,DF,303,148,126,85%,37.43
+262,Merchas Doski,Iraq,DF,303,141,115,82%,34.16
+263,Daichi Kamada,Japan,MF,359,200,170,85%,42.62
+264,Kaishu Sano,Japan,MF,303,131,124,95%,36.83
+265,Keito Nakamura ,Japan,MF,330,117,100,85%,27.27
+266,Junya Ito,Japan,MF,242,85,65,76%,24.17
+267,Daizen Maeda,Japan,MF,271,30,28,93%,9.3
+268,Kou Itakura,Japan,DF,138,110,107,97%,69.78
+269,Ritsu Doan,Japan,MF,295,105,89,85%,27.15
+270,Tsuyoshi Watanabe,Japan,DF,99,34,31,91%,28.18
+271,Ayumu Seko,Japan,DF,97,50,42,84%,38.97
+272,Yukinari Sugawara,Japan,DF,181,73,52,71%,25.86
+273,Takehiro Tomiyasu,Japan,DF,208,127,109,86%,47.16
+274,Ao Tanaka ,Japan,MF,225,160,145,91%,58
+275,Shogo Taniguchi,Japan,DF,267,127,122,96%,41.12
+276,Hiroki Ito ,Japan,DF,405,199,178,89%,39.56
+277,Nizar Alrasdan ,Jordan,MF,289,80,62,78%,19.31
+278,Ehsan Haddad ,Jordan,DF,287,73,54,74%,16.93
+279,Noor Alrawabdeh,Jordan,MF,309,111,84,76%,24.47
+280,Husam Abudahab,Jordan,DF,190,58,43,74%,20.37
+281,Abdallah Nasib,Jordan,DF,287,97,70,72%,21.95
+282,Mohannad Abutaha,Jordan,MF,296,87,59,68%,17.94
+283,Yazan Alarab,Jordan,DF,309,106,94,89%,27.38
+284,Hwang Inboem ,South Korea,MF,286,218,193,89%,60.73
+285,Lee Kangin,South Korea,MF,300,159,140,88%,42
+286,Lee Taeseok ,South Korea,DF,120,45,39,87%,29.25
+287,Hwang Heecham ,South Korea,MF,123,47,40,85%,29.27
+288,Lee Jaesung,South Korea,MF,125,59,46,78%,33.12
+289,Paik Seungho,South Korea,MF,216,152,135,89%,56.25
+290,Kim Minjae,South Korea,DF,268,226,221,98%,74.22
+291,Seol Youngwoo,South Korea,DF,274,123,113,92%,37.12
+292,Lee Hanbeom ,South Korea,DF,300,200,183,92%,54.9
+293,Lee Gihyuk ,South Korea,MF,300,236,217,92%,65.1
+294,Luis Romo ,Mexico ,MF,284,106,93,88%,29.47
+295,Alvaro Fidalgo ,Mexico ,MF,117,77,72,94%,55.38
+296,Jorge Sanchez,Mexico ,DF,388,131,121,92%,28.07
+297,Erik Lira,Mexico ,MF,391,199,182,91%,41.89
+298,Brian Gutierrez,Mexico ,MF,226,60,53,88%,21.11
+299,Gilberto Mora ,Mexico ,MF,236,87,79,91%,30.13
+300,Israel Reyes,Mexico ,DF,237,102,93,91%,35.32
+301,Edson Alvarez,Mexico ,DF,278,153,138,90%,44.68
+302,Cesar Montes,Mexico ,DF,349,170,156,92%,40.23
+303,Johan Vasquez,Mexico ,DF,412,237,221,93%,48.28
+304,Jeses Gallardo ,Mexico ,DF,431,167,140,84%,29.23
+305,Ismael Saibari,Morocco ,MF,411,95,80,84%,17.52
+306,Azzedine Ounahi ,Morocco ,MF,477,315,281,89%,53.02
+307,Achraf Hakimi ,Morocco ,DF,650,449,402,90%,55.66
+308,Gessime Yassine ,Morocco ,MF,101,39,34,87%,30.3
+309,Issa Diop ,Morocco ,DF,534,326,299,92%,50.39
+310,Chemsdine Talbi,Morocco ,MF,217,54,47,87%,19.49
+311,Chadi Riad,Morocco ,DF,390,226,212,94%,48.92
+312,Samir El Mourabet,Morocco ,MF,121,110,100,91%,74.38
+313,Sofyan Amrabat,Morocco ,MF,175,106,98,92%,50.4
+314,Redouane Halhal,Morocco ,DF,208,119,113,95%,48.89
+315,Anass Salan Eddine ,Morocco ,DF,240,166,152,92%,57
+316,Ayyoub Bouaddi ,Morocco ,MF,425,264,237,90%,50.19
+317,Nousaair Mazraoui ,Morocco ,DF,542,275,251,91%,41.68
+318,Bilal El Khannouss,Morocco ,MF,501,238,186,78%,33.41
+319,Neil El Aynaoui,Morocco ,MF,634,433,405,94%,57.49
+320,Virgil Van Dijk ,Netherlands,DF,432,347,330,95%,68.75
+321,Jan Paul Van Hecke ,Netherlands,DF,432,360,335,93%,69.79
+322,Ryan Gravenberch ,Netherlands,MF,374,126,111,88%,26.71
+323,Denzel Dumfries,Netherlands,DF,432,179,147,82%,30.63
+324,Teun Koopmeiners,Netherlands,MF,145,63,54,86%,33.52
+325,Nathan Ake ,Netherlands,DF,189,123,112,91%,53.33
+326,Micky Van De Ven ,Netherlands,DF,291,117,105,90%,32.47
+327,Frenkie De Jong ,Netherlands,MF,360,243,224,92%,56
+328,Elijah Just,New Zealand,MF,291,99,85,86%,26.29
+329,Finn Surman,New Zealand,DF,306,145,135,93%,39.71
+330,Tim Payne ,New Zealand,DF,241,87,72,83%,26.89
+331,Ryan Thomas,New Zealand,MF,103,25,18,72%,15.73
+332,Ben Old,New Zealand,MF,112,33,25,76%,20.09
+333,Tyler Bindon,New Zealand,DF,120,68,49,72%,36.75
+334,Callum Mccowatt,New Zealand,MF,173,93,78,84%,40.58
+335,Sarpreet Singh ,New Zealand,MF,227,76,58,76%,23
+336,Michael Boxwell ,New Zealand,DF,237,115,105,90%,39.87
+337,Liberato Cacace,New Zealand,DF,237,88,75,85%,28.48
+338,Joe Bell,New Zealand,MF,275,143,120,84%,39.27
+339,Marko Stamenic,New Zealand,MF,302,171,156,91%,46.49
+340,Andreas Schjelderup ,Norway,MF,297,104,89,86%,26.97
+341,Thelo Aasgaard,Norway,MF,100,43,38,88%,34.2
+342,Leo Ostigard,Norway,DF,184,99,84,85%,41.09
+343,Marcus Holmgrenn Ped,Norway,DF,273,107,87,81%,28.68
+344,Martin Odegaard,Norway,MF,537,367,322,88%,53.97
+345,Patrick Berg ,Norway,MF,519,174,161,93%,27.92
+346,David Moller Wolfe,Norway,DF,477,186,162,87%,30.57
+347,Oscar Bobb,Norway,MF,279,111,96,92%,30.97
+348,Fredrik Aursnes ,Norway,MF,355,178,158,89%,40.06
+349,Trobjon Heggem,Norway,DF,503,301,282,94%,50.46
+350,Kristoffer Ajer,Norway,DF,554,273,256,94%,41.59
+351,Sander Berge,Norway,MF,554,425,412,97%,66.93
+352,Nuno Mendes,Portugal ,DF,447,282,239,85%,48.12
+353,Joao Neves,Portugal ,MF,450,261,247,95%,49.4
+354,Joao Cancelo ,Portugal ,DF,342,184,160,87%,42.11
+355,Bruno Fernandes,Portugal ,MF,471,278,239,86%,45.67
+356,Tomas Araujo,Portugal ,DF,100,102,98,96%,88.2
+357,Bernardo Silva,Portugal ,MF,133,59,55,93%,37.22
+358,Nelson Semedo ,Portugal ,DF,164,91,84,92%,46.1
+359,Vitinha ,Portugal ,MF,404,403,379,94%,84.43
+360,Ruben Dias,Portugal ,DF,418,249,233,94%,50.17
+361,Renato Veiga,Portugal ,DF,518,336,320,95%,55.6
+362,Mikel Merino ,Spain ,MF,262,101,89,88%,30.57
+363,Pedro Porro ,Spain ,DF,640,420,379,90%,53.3
+364,Pedri ,Spain ,MF,565,469,420,90%,66.9
+365,Marc Cucurella,Spain ,DF,857,474,433,94%,45.47
+366,Alex Baena ,Spain ,MF,522,218,178,82%,30.69
+367,Fabian Ruiz,Spain ,MF,366,297,266,90%,65.41
+368,Jorge Gutierrez,Panama ,DF,90,23,19,83%,19
+369,Fidel Escobar,Panama ,DF,98,27,20,74%,18.37
+370,Jiovany Ramos,Panama ,DF,186,121,108,89%,52.26
+371,Cesar Blackman ,Panama ,DF,187,79,69,87%,33.21
+372,Jose Luis Rodriguez,Panama ,MF,251,48,35,73%,12.55
+373,Edgar Yoel Barcenas,Panama ,MF,272,109,96,88%,31.76
+374,Carlos Harvey,Panama ,DF,295,107,85,79%,25.93
+375,Andres Andrade ,Panama ,DF,303,178,147,83%,43.66
+376,Jose Corboda ,Panama ,DF,303,183,169,92%,50.2
+377,Amir Murillo ,Panama ,DF,303,112,88,79%,26.14
+378,Matias Galarza,Paraguay,MF,439,113,82,73%,16.81
+379,Mauricio,Paraguay,MF,208,69,54,78%,23.37
+380,Gustavo Caballero,Paraguay,MF,117,8,5,63%,3.85
+381,Jose Canale ,Paraguay,DF,198,27,18,67%,8.18
+382,Damian Bodadilla ,Paraguay,MF,216,32,24,75%,10
+383,Gustavo Velazquez,Paraguay,DF,293,80,57,71%,17.51
+384,Miguel Almiron ,Paraguay,MF,306,67,56,73%,16.47
+385,Diego Gomez,Paraguay,MF,332,101,80,79%,21.69
+386,Omar Alderete,Paraguay,DF,363,97,70,72%,17.36
+387,Junior Alonso,Paraguay,DF,456,116,69,59%,13.62
+388,Juan Jose Caceres,Paraguay,DF,488,129,80,62%,14.75
+389,Andres Cubas,Paraguay,MF,554,117,97,83%,15.76
+390,Gustavo Gomez,Paraguay,DF,554,91,80,88%,13
+391,Karim Boudiaf,Qatar,MF,114,69,65,94%,51.32
+392,Homam Ahmed,Qatar,DF,134,33,25,76%,16.79
+393,Assim Madibo,Qatar,MF,140,33,27,82%,17.36
+394,Ahmed Fathy ,Qatar,MF,163,65,59,91%,32.58
+395,Jassem Gaber,Qatar,DF,166,32,25,78%,13.55
+396,Sultan Albrake,Qatar,DF,167,42,33,79%,17.78
+397,Ayoub Aloui,Qatar,DF,170,28,11,39%,5.82
+398,Pedro Miguel ,Qatar,DF,310,78,59,76%,17.13
+399,Boualem Khoukhi,Qatar,DF,310,117,94,80%,27.29
+400,Issa Laye,Qatar,DF,310,90,85,94%,24.68
+401,Abdulelah Alamri,Saudi Arabia ,DF,268,99,81,82%,27.2
+402,Nawaf Bu Washl,Saudi Arabia ,DF,104,46,35,76%,30.29
+403,Mohammed Abu Alsha,Saudi Arabia ,DF,153,64,51,80%,30
+404,Musab Aljuwayr,Saudi Arabia ,MF,167,79,64,81%,34.49
+405,Ali Lajami ,Saudi Arabia ,DF,177,68,56,82%,28.47
+406,Abdulla Alkhaibari,Saudi Arabia ,MF,203,58,48,83%,21.28
+407,Moteb Alhari,Saudi Arabia ,DF,213,77,57,74%,24.08
+408,Nasser Aldawasari,Saudi Arabia ,MF,230,107,92,86%,36
+409,Hassan Altambakti,Saudi Arabia ,DF,237,87,71,82%,26.96
+410,Mohamed Kanno ,Saudi Arabia ,MF,256,104,97,93%,34.1
+411,Saud Abdulhamid,Saudi Arabia ,DF,300,113,88,78%,26.4
+412,John Mcginn,Scotland,MF,277,55,47,85%,15.27
+413,Scott Mckenna ,Scotland,DF,102,52,49,94%,43.24
+414,Ryan Christie,Scotland,MF,114,35,29,83%,22.89
+415,Kieran Tierney,Scotland,DF,115,48,36,75%,28.17
+416,Kenny Mclean ,Scotland,MF,144,63,56,89%,35
+417,Grant Hanley,Scotland,DF,203,101,94,93%,41.67
+418,Nathan Patterson,Scotland,DF,204,109,94,86%,41.47
+419,Andy Roberston ,Scotland,DF,255,153,124,81%,43.76
+420,Lewis Ferguson ,Scotland,MF,306,201,185,92%,54.41
+421,Jack Hendry,Scotland,DF,306,180,171,95%,50.29
+422,Scott Mctominay,Scotland,MF,306,96,87,91%,25.59
+423,Pape Gueye,Senegal,MF,257,161,138,86%,48.33
+424,Habib Diarra,Senegal,MF,168,54,52,96%,27.86
+425,Moussa Niakhate,Senegal,DF,459,290,271,93%,53.14
+426,Lamine Camara,Senegal,MF,287,131,117,92%,36.69
+427,Kalidou Koulibaly,Senegal,DF,181,83,73,88%,36.3
+428,El Hadji Malick Diouj,Senegal,DF,202,89,74,83%,32.97
+429,Pathe Ciss,Senegal,MF,232,139,128,92%,49.66
+430,Ismail Jakobs,Senegal,DF,257,117,106,91%,37.12
+431,Idrissa Gana Gueye,Senegal,MF,411,270,243,90%,53.21
+432,Krepin Diatta ,Senegal,DF,459,283,255,90%,50
+433,Teboho Mokoena,South Africa,MF,301,196,176,90%,52.62
+434,Nkosinathi Sibisi,South Africa,DF,101,52,42,81%,37.43
+435,Jayden Adams ,South Africa,MF,130,44,40,91%,27.69
+436,Sphephelo Sithole ,South Africa,MF,252,129,109,84%,38.93
+437,Thalente Mbatha ,South Africa,MF,293,97,82,85%,25.19
+438,Aubrey Modiba,South Africa,DF,381,139,128,83%,30.24
+439,Mbekezeli Mbokazi,South Africa,DF,402,213,185,87%,41.42
+440,Khuliso Mudau,South Africa,DF,402,187,168,90%,37.61
+441,Ime Okon,South Africa,DF,402,280,257,92%,57.54
+442,Yasin Ayari,Sweden ,MF,371,107,84,79%,20.38
+443,Lucas Bergvall,Sweden ,MF,207,88,75,91%,32.61
+444,Daniel Svensson,Sweden ,DF,114,46,38,83%,30
+445,Jesper Karlstrom,Sweden ,MF,147,37,31,84%,18.98
+446,Benjamin Nygren,Sweden ,MF,149,50,46,92%,27.79
+447,Elliot Stroud,Sweden ,DF,183,49,38,78%,18.69
+448,Alexander Bernhardson,Sweden ,DF,233,67,51,76%,19.7
+449,Isak Hien ,Sweden ,DF,237,128,122,95%,46.33
+450,Gabriel Gudmundsson,Sweden ,DF,356,147,112,76%,28.31
+451,Victor Lindelof,Sweden ,DF,390,200,190,95%,43.85
+452,Gustaf Largerbielke,Sweden ,DF,400,206,173,84%,38.93
+453,Johan Manzambi,Switzerland,MF,220,54,43,80%,17.59
+454,Granit Xhaka ,Switzerland,MF,673,470,427,91%,57.1
+455,Ricardo Rodriguez,Switzerland,DF,567,295,243,82%,38.57
+456,Miro Muheim ,Switzerland,DF,115,40,31,78%,24.26
+457,Michel Aebischer,Switzerland,MF,176,76,66,87%,33.75
+458,Silvan Widmer,Switzerland,DF,210,73,57,78%,24.43
+459,Djibril Sow,Switzerland,MF,276,97,83,86%,27.07
+460,Fabian Rieder,Switzerland,MF,332,87,71,82%,19.25
+461,Denius Zakaria,Switzerland,MF,392,185,160,86%,36.73
+462,Remo Freuler,Switzerland,MF,654,324,299,92%,41.15
+463,Manuel Akanji,Switzerland,DF,673,479,444,93%,59.38
+464,Nico Elvedi ,Switzerland,DF,673,438,406,93%,54.29
+465,Omar Rekik,Tunisia,DF,200,93,77,83%,34.65
+466,Hannibal Mejbri,Tunisia,MF,298,123,94,76%,28.39
+467,Sebastian Tounekti,Tunisia,MF,98,18,16,89%,14.69
+468,Ismael Gharbi,Tunisia,MF,142,36,35,97%,22.18
+469,Rani Khedira,Tunisia,MF,162,30,25,83%,13.89
+470,Mohamed Amine Ben Hm,Tunisia,DF,221,98,81,83%,32.99
+471,Anis Slimane,Tunisia,MF,257,75,59,79%,20.66
+472,Ellyes Skhiri,Tunisia,MF,267,109,99,91%,33.37
+473,Yan Valery ,Tunisia,DF,274,80,54,68%,17.74
+474,Ali Abdi,Tunisia,DF,293,74,51,69%,15.67
+475,Montassar Talbi,Tunisia,DF,298,113,107,95%,32.32
+476,Orkun Kokcu,Turkiye,MF,172,85,60,71%,31.4
+477,Ozan Kabak ,Turkiye,MF,104,36,26,72%,22.5
+478,Salih Ozcan ,Turkiye,MF,120,61,52,85%,39
+479,Mert Muldur,Turkiye,DF,132,81,72,89%,49.09
+480,Eren Elmali,Turkiye,DF,134,59,52,88%,34.93
+481,Ismail Yuksek,Turkiye,MF,153,111,104,94%,61.18
+482,Zeki Celik,Turkiye,DF,173,79,70,89%,36.42
+483,Ferdi Kadioglu,Turkiye,DF,179,175,161,92%,80.95
+484,Hakan Calhangolu,Turkiye,MF,208,190,171,90%,73.99
+485,Merih Demiral ,Turkiye,DF,208,124,119,96%,51.49
+486,Abdulkerim Bardakci,Turkiye,DF,300,242,222,92%,66.6
+487,Maxi Araujo,Uruguay,MF,278,57,50,88%,16.19
+488,Agustin Canobbio,Uruguay,MF,261,68,61,90%,21.03
+489,Nicolas De La Cruz,Uruguay,MF,115,55,45,82%,35.22
+490,Manuel Ugarte,Uruguay,MF,197,136,118,87%,53.91
+491,Juan Manuel Sanabria,Uruguay,MF,237,103,89,86%,33.8
+492,Federico Valverde,Uruguay,MF,272,120,98,82%,32.43
+493,Rodrigo Bentancur,Uruguay,MF,313,174,157,90%,45.14
+494,Sebastian Caceres,Uruguay,DF,313,172,154,90%,44.28
+495,Mathias Olivera,Uruguay,DF,313,226,213,94%,61.25
+496,Guillermo Varela ,Uruguay,DF,313,134,119,89%,34.22
+497,Malik Tillman,USA,MF,415,163,129,79%,27.98
+498,Sebastian Berhalter,USA,MF,231,136,114,84%,44.42
+499,Alex Freeman ,USA,DF,442,283,256,90%,52.13
+500,Auston Trusty,USA,DF,123,50,38,76%,27.8
+501,Giovanni Reyna,USA,MF,155,94,79,84%,45.87
+502,Weston Mckennie,USA,MF,500,220,173,79%,31.14
+503,Tim Ream,USA,DF,419,298,281,94%,60.36
+504,Chris Richards,USA,DF,419,291,277,95%,59.5
+505,Antonee Robinson,USA,DF,399,221,181,82%,40.83
+506,Tyler Adams,USA,MF,397,231,211,91%,47.83
+507,Sergino Dest,USA,DF,335,102,89,87%,23.91
+508,Joe Scally,USA,DF,100,53,46,87%,41.4
+509,Miles Robinson,USA,DF,104,58,54,93%,46.73
+510,Mark Mckenzie,USA,DF,104,51,47,92%,40.67
+511,Abbosbek Fayullaev,Uzbekistan,MF,240,36,24,67%,9
+512,Akmal Mozgovoy,Uzbekistan,MF,243,79,65,82%,24.07
+513,Odiljon Xamrobekov,Uzbekistan,MF,90,43,38,88%,38
+514,Jakhongir Urozov,Uzbekistan,DF,112,45,31,69%,24.91
+515,Dostonbek Khamdamnov,Uzbekistan,MF,120,34,29,85%,21.75
+516,Azizjon Ganiev ,Uzbekistan,MF,140,59,48,81%,30.86
+517,Khojiakbar Alikonov,Uzbekistan,DF,155,41,27,66%,15.68
+518,Behruzjon Karimov,Uzbekistan,DF,203,55,43,78%,19.06
+519,Sherzod Nasrullaev,Uzbekistan,DF,206,48,35,73%,15.29
+520,Abdulla Abdullaev,Uzbekistan,DF,206,72,65,90%,28.4
+521,Otabek Shukurov,Uzbekistan,MF,268,117,103,88%,34.59
+522,Rustam Ashurmatov,Uzbekistan,DF,288,123,101,82%,31.56
+523,Abdukodir Khusanov,Uzbekistan,DF,311,98,81,83%,23.44
