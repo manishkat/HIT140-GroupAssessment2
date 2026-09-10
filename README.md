@@ -1,4 +1,4 @@
-PRT581 Group Assessment 2 — FIFA World Cup 2026 Data Analysis
+HIT 140 Group Assessment 2 — FIFA World Cup 2026 Data Analysis
 
 A group project analysing FIFA World Cup 2026 match and player data using Python. Each team member investigated a distinct analytic question using data wrangling, sampling, descriptive statistics, confidence intervals, and hypothesis testing (one-sample or two-sample t-test).
 
